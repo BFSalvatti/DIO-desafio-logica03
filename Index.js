@@ -10,7 +10,7 @@ class heroi {
    
     const ataques = {
       mago: "magia",
-      guerreiro: 'espada',
+      guerreiro: "espada",
       monge: "artes marciais",
       ninja: "shuriken"
     }
