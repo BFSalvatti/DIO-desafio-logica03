@@ -16,12 +16,10 @@ class heroi {
     }
 
     const ataque = ataques[this.tipo]
-
-
+    
     console.log(`O ${this.tipo} ${this.nome} atacou usando ${ataque}`)
   }
 }
-
 
 const heroi1 = new heroi("Odette", 36, "mago");
 
